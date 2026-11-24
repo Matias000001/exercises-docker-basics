@@ -1,0 +1,7 @@
+https://docker-exercise-1-16-matias.onrender.com
+
+Julkaisin React-frontend-sovelluksen Render-pilvipalvelussa Docker-konttina.
+
+Sovelluksen koodi sijaitsee GitHubissa. Render rakentaa Docker-imagen repositorion 1_14/Dockerfile.frontend-tiedostosta ja käynnistää sovelluksen portissa 5001.
+
+Käytin Renderin ilmaista palvelua ja varmistin selaimella, että sovellus on julkisesti saatavilla ja käyttöliittymä latautuu onnistuneesti.
